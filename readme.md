@@ -14,6 +14,6 @@ The dataset is structured as a CSV file with the following key columns:
 ## 🧠 Purpose
 
 HiEnWrite was curated to:
-- Enable development of **bilingual and code-mixed NLP systems** for personality profiling.
+- Enable development of **bilingual and code-mixed systems** for personality profiling.
 - Facilitate research on **cross-lingual and culture-aware personality detection**.
 - Provide a diverse set of handwriting samples tagged with Big Five scores for both supervised and zero-shot models.
