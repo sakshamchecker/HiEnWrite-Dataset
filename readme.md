@@ -34,5 +34,5 @@ If you use this dataset in your work, please cite:
   author={Checker, Saksham and Yadav, Madhuri and Katarya, Rahul},
   journal={ACM Transactions on Asian and Low-Resource Language Information Processing},
   year={2025},
-  doi={10.1145/xxxxxxx}
+  doi={10.1145/3756010}
 }
